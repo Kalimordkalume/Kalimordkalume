@@ -1,1 +1,1 @@
-![image](https://github.com/Kalimordkalume/Kalimordkalume/assets/111978846/a7a8fce5-cb26-4feb-9f25-915d984c4705)
+![image](https://github.com/Kalimordkalume/Kalimordkalume/assets/111978846/d99ef760-51d8-4e17-9a5f-0e0c9057039e)
