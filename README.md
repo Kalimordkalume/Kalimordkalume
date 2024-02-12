@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<div>
+<div style='background-color:powderblue; >
   <h1>Esto es un header dentro de un div</h1>
 </div>
 <!--
